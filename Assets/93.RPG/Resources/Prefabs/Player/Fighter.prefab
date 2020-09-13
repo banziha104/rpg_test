@@ -602,7 +602,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4909903464192160}
   - component: {fileID: 111355812039746302}
-  - component: {fileID: -36211404939308585}
+  - component: {fileID: 6300019833237844245}
   m_Layer: 0
   m_Name: Fighter
   m_TagString: Untagged
@@ -673,7 +673,7 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
---- !u!114 &-36211404939308585
+--- !u!114 &6300019833237844245
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -685,6 +685,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78180ff5c9f4b4177be41babf499365a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  skin: {fileID: 0}
   moveSpeed: 2
   runSpeed: 3.5
   directionRotateSpeed: 100

@@ -52,6 +52,7 @@
   <ItemGroup>
      <Compile Include="Assets\HOTween\_Demo\HOTweenDemoBrain.cs" />
      <Compile Include="Assets\93.RPG\Script\FighterControl.cs" />
+     <Compile Include="Assets\93.RPG\Script\GuiControl.cs" />
      <None Include="Assets\HOTween\readme.txt" />
      <None Include="Assets\Effect Assets\Vectormania\readme.txt" />
      <None Include="Assets\Effect Assets\DynamicElements_Effects\readme.txt" />
@@ -625,9 +626,6 @@
  <Reference Include="mscorlib">
  <HintPath>/Users/iyeongjun/2020.1.4f1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
  </Reference>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include=".gitigonre" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
