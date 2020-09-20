@@ -2,25 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78396c12-4595-4efd-b0d6-b169b0c5d3a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/93.RPG/Script/GuiControl.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/93.RPG/Script/GuiControl.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.rpg_teest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.rpg_teest/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.rpg_teest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.rpg_teest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/93.RPG/Resources/Prefabs/Player/Fighter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/93.RPG/Resources/Prefabs/Player/Fighter.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/93.RPG/Scene/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/93.RPG/Scene/Level1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/93.RPG/Script/FighterControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/93.RPG/Script/FighterControl.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/07/07135f0a0695ea4c3e41ce71c95b33ee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/12/1246bbccea2dc60656c240920cbd6028" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/86/86936bec2a93dcc0bf9c737bd91b4006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/96/96fce2e420671ebebd539ff26b229b7a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ad/ad6772dfa500af0ab4821d4cdb2504fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f1/f1bf5b0c66e5e67d69e9e7114bcb5264" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler10.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler10.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler12.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler12.log" afterDir="false" />
@@ -31,24 +28,6 @@
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler6.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler7.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler9.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler9.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1e9944e869c15463ea8c116a88647867" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-275a405b2b0574f2a9b06c8af4e8fb06" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2ee0a000957134e0c987f536a2152dcd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-307af4dd11de5461c9718a78de899044" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-5b4188ee1de9341dd94dd12cce8810c1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8199b8cd7fc1b4aeaad626d060121b17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8c26dfc26c3ae466b9a8ccff33bc5ec9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8e0981578e7da4049a8202a418f9f31e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-dabe0a00cb0a9404397dee86f55d5c26" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-dea603c4376134076a431227e642ba50" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/input-61671dcaac8734a2e8511ff04c7036d5.unwrap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/input-6eb008acbd6bc4b538aef8ee375be13b.unwrap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/input-ba9b8ab63cfe44767b64c853a1298cc2.unwrap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/input-c7f40491f428e434ebeb2768901e5066.unwrap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/output-4a06a41bac63a4e0abea0ba1675844a7.unwrap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/output-74304ed62e0584f61bbda9a9b3a55c4e.unwrap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/output-88671a3175c53410d91cfd176bedb6bb.unwrap" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +39,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BE223AC-3748-4E44-B85A-077F9B461EF8/59/f60d9dd3/Input.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1CC9F42F-C888-4DD6-B922-6D52BD1D749D/5c/9cf33d46/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CD321F2-2A98-4E1E-B513-F00B987C648C/22/dd238d3d/Component.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -84,6 +64,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.C#" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -114,6 +95,9 @@
       <option name="presentableId" value="Default" />
       <updated>1599897928481</updated>
       <workItem from="1599897935473" duration="5895000" />
+      <workItem from="1600482034614" duration="626000" />
+      <workItem from="1600483086974" duration="739000" />
+      <workItem from="1600586189272" duration="3135000" />
     </task>
     <servers />
   </component>
@@ -130,6 +114,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="998" y="520" key="#com.intellij.fileTypes.FileTypeChooser/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1599912504749" />
+    <state x="1010" y="565" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1600587221749">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1010" y="565" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1600587221749" />
     <state x="1252" y="443" key="Github.ShareDialog" timestamp="1599911602138">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -138,13 +126,21 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="993" y="346" key="Github.UntrackedFilesDialog/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1599911611291" />
-    <state x="781" y="359" key="SettingsEditor" timestamp="1599898056728">
+    <state x="1252" y="313" key="SettingsEditor" timestamp="1600586574221">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="781" y="359" key="SettingsEditor/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1599898056728" />
-    <state width="500" height="400" key="SwitcherDM" timestamp="1599924105544">
+    <state x="1252" y="313" key="SettingsEditor/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1600586574221" />
+    <state width="500" height="400" key="SwitcherDM" timestamp="1600589804454">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="500" height="400" key="SwitcherDM/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1599924105544" />
+    <state width="500" height="400" key="SwitcherDM/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1600589804454" />
+    <state x="1037" y="594" width="568" height="272" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1600586473312">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1037" y="594" width="568" height="272" key="org.intellij.images.editor.actions.BackgroundImageDialog/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1600586473312" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1600587096448">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1600587096448" />
   </component>
 </project>
