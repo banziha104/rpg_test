@@ -22,7 +22,8 @@ namespace _93.RPG.Script
 
         private CharacterController _characterController = null;
         private CollisionFlags _collisionFlags = CollisionFlags.None;
-
+        private float _gravity = 9.8f;
+        private float _verticalSpeed = 0.0f;
 
         [Header("애니메이션 관련 속성")]
         public AnimationClip idleAnimClip = null;
@@ -33,8 +34,9 @@ namespace _93.RPG.Script
         public AnimationClip attack3AnimClip = null;
         public AnimationClip attack4AnimClip = null;
         private Animation _animation = null;
-
+        private bool _cannotMove = false;
         
+
         public enum FighterState
         {
             None,
@@ -70,6 +72,10 @@ namespace _93.RPG.Script
             _animation[attack2AnimClip.name].wrapMode = WrapMode.Once;
             _animation[attack3AnimClip.name].wrapMode = WrapMode.Once;
             _animation[attack4AnimClip.name].wrapMode = WrapMode.Once;
+            AddAnimationEvent(attack1AnimClip,"OnAttackAnimFinished");
+            AddAnimationEvent(attack2AnimClip,"OnAttackAnimFinished");
+            AddAnimationEvent(attack3AnimClip,"OnAttackAnimFinished");
+            AddAnimationEvent(attack4AnimClip,"OnAttackAnimFinished");
         }
 
         // Update is called once per frame
@@ -82,11 +88,16 @@ namespace _93.RPG.Script
             BodyDirectionChange();
             AnimationControl();
             CheckState();
+            // 마우스 왼쪽 버튼 클릭으로 공격 상태로 변경시켜줌
+            InputControl();
+            ApplyGravity();
         }
 
         private void OnGUI()
         {
+            
             GUI.skin = skin;
+            GUILayout.Label($"충돌 + ${_collisionFlags}");
             GUILayout.Label($"현재 속도 : ${GetVelocitySpeed()}");
             // 캐릭터 컨트롤러 컴포넌트를 찾았고, 현재 내 캐릭터의 이동속도가 0이 아니라면.
             if (_characterController != null && _characterController.velocity != Vector3.zero)
@@ -101,6 +112,9 @@ namespace _93.RPG.Script
         /// </summary>
         void Move()
         {
+
+            if (_cannotMove) return;
+            
             var vertical = Input.GetAxis("Vertical");
             var horizontal = Input.GetAxis("Horizontal");
 
@@ -127,7 +141,8 @@ namespace _93.RPG.Script
             {
                 speed = runSpeed;
             }
-            var moveAmount = (_moveDirection * (speed * Time.deltaTime));
+            Vector3 gravityVector = new Vector3(0.0f, _verticalSpeed, 0.0f);
+            var moveAmount = (_moveDirection * (speed * Time.deltaTime)) + gravityVector;
             _collisionFlags = _characterController.Move(moveAmount);
         }
 
@@ -184,6 +199,7 @@ namespace _93.RPG.Script
                     AnimationPlay(runAnimClip);
                     break;
                 case FighterState.Attack:
+                    AttackAnimationControl();
                     break;
                 case FighterState.Skill:
                     break;
@@ -226,8 +242,10 @@ namespace _93.RPG.Script
                     }
                     break;
                 case FighterState.Attack:
+                    _cannotMove = true;
                     break;
                 case FighterState.Skill:
+                    _cannotMove = true;
                     break;
             }
         }
@@ -270,6 +288,7 @@ namespace _93.RPG.Script
                             {
                                 nextAttack = true;
                             }
+
                             break;
                         default:
                             throw new ArgumentOutOfRangeException();
@@ -281,10 +300,11 @@ namespace _93.RPG.Script
         /// <summary>
         /// 공격 애니메이션 재생이 끝나면 호출되는 애니메이션 이벤트 함수.
         /// </summary>
-        void OnAttackAnimFinished()
+        private void OnAttackAnimFinished()
         {
             if (nextAttack == true)
             {
+                nextAttack = false;
                 switch (attackState)
                 {
                     case FighterAttackState.Attack1:
@@ -303,9 +323,55 @@ namespace _93.RPG.Script
             }
             else
             {
-
+                _cannotMove = false;
                 _state = FighterState.Idle;
                 attackState = FighterAttackState.Attack1;
+            }
+        }
+
+        /// <summary>
+        /// 애니메이션 클립 재생이 끝날떄쯤 애니메이션 이벤트 함수를 호출 시켜주도록 추가
+        /// </summary>
+        /// <param name="clip"></param>
+        /// <param name="FuncName"></param>
+        private void AddAnimationEvent(AnimationClip clip, string FuncName)
+        {
+            var newEvent = new AnimationEvent {functionName = FuncName};
+            newEvent.time = clip.length - 0.1f;
+            clip.AddEvent(newEvent);
+        }
+
+        private void AttackAnimationControl()
+        {
+            switch (attackState)
+            {
+                case FighterAttackState.Attack1:
+                    AnimationPlay(attack1AnimClip);
+                    break;
+                case FighterAttackState.Attack2:
+                    AnimationPlay(attack2AnimClip);
+                    break;
+                case FighterAttackState.Attack3:
+                    AnimationPlay(attack3AnimClip);
+                    break;
+                case FighterAttackState.Attack4:
+                    AnimationPlay(attack4AnimClip);
+                    break;
+            }
+        }
+
+        /// <summary>
+        /// 중력적
+        /// </summary>
+        void ApplyGravity()
+        {
+            if((_collisionFlags & CollisionFlags.CollidedBelow) != 0)
+            {
+                _verticalSpeed = 0.0f;
+            }
+            else
+            {
+                _verticalSpeed -= _gravity * Time.deltaTime;
             }
         }
     }

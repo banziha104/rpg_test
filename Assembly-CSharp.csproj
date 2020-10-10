@@ -53,6 +53,7 @@
      <Compile Include="Assets\HOTween\_Demo\HOTweenDemoBrain.cs" />
      <Compile Include="Assets\93.RPG\Script\FighterControl.cs" />
      <Compile Include="Assets\93.RPG\Script\GuiControl.cs" />
+     <Compile Include="Assets\93.RPG\Script\CameraControl.cs" />
      <None Include="Assets\HOTween\readme.txt" />
      <None Include="Assets\Effect Assets\Vectormania\readme.txt" />
      <None Include="Assets\Effect Assets\DynamicElements_Effects\readme.txt" />
