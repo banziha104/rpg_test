@@ -7,6 +7,7 @@
         <e p="93.RPG" t="Include">
           <e p="Script" t="Include">
             <e p="CameraControl.cs" t="Include" />
+            <e p="CorutineSample.cs" t="Include" />
             <e p="FighterControl.cs" t="Include" />
             <e p="GuiControl.cs" t="Include" />
           </e>

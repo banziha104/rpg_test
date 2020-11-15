@@ -19,35 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78396c12-4595-4efd-b0d6-b169b0c5d3a0" name="Default Changelist" comment="애니메이션 추가">
+    <list default="true" id="78396c12-4595-4efd-b0d6-b169b0c5d3a0" name="Default Changelist" comment="카메라 추가">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.rpg_teest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.rpg_teest/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.rpg_teest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.rpg_teest/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/93.RPG/Art/Character/Materials/Material #23.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/93.RPG/Art/Character/Materials/Material #23.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/93.RPG/Art/Character/Texture/warrior_shield_01.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/93.RPG/Art/Character/Texture/warrior_shield_01.psd.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/93.RPG/Scene/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/93.RPG/Scene/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/93.RPG/Script/FighterControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/93.RPG/Script/FighterControl.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/New Terrain.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New Terrain.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/91/918376265ecb7b1b9293ff1b3316d0e8" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler10.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler10.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler12.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler12.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler13.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler13.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler2.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler5.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler6.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler7.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler9.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler9.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,12 +48,20 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BE223AC-3748-4E44-B85A-077F9B461EF8/59/f60d9dd3/Input.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB61AEE3-B85B-4BDF-A607-6D6680A88457/d5/2d45bd2a/AnimationState.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/iyeongjun/CloudStation/Projects/unity/rpg_teest/Assets/93.RPG/Script/FighterControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/iyeongjun/CloudStation/Projects/unity/rpg_teest/Assets/93.RPG/Script/FighterControl.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/93.RPG/Script/CameraControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1CC9F42F-C888-4DD6-B922-6D52BD1D749D/5c/9cf33d46/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CD321F2-2A98-4E1E-B513-F00B987C648C/22/dd238d3d/Component.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CD321F2-2A98-4E1E-B513-F00B987C648C/89/49777059/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/iyeongjun/CloudStation/Projects/unity/rpg_teest/Assets/93.RPG/Script/FighterControl.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CD321F2-2A98-4E1E-B513-F00B987C648C/1a/09b45ce8/Object.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB61AEE3-B85B-4BDF-A607-6D6680A88457/9a/1843412f/AnimationEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CD321F2-2A98-4E1E-B513-F00B987C648C/77/f270fef0/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CD321F2-2A98-4E1E-B513-F00B987C648C/22/dd238d3d/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CD321F2-2A98-4E1E-B513-F00B987C648C/89/49777059/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/iyeongjun/CloudStation/Projects/unity/rpg_teest/Assets/93.RPG/Script/FighterControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/iyeongjun/CloudStation/Projects/unity/rpg_teest/Assets/93.RPG/Script/FighterControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/93.RPG/Script/CorutineSample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/iyeongjun/CloudStation/Projects/unity/rpg_teest/Assets/93.RPG/Script/FighterControl.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -75,6 +70,7 @@
         <option value="$PROJECT_DIR$/Assets/93.RPG/Script/GuiControl.cs" />
         <option value="$PROJECT_DIR$/Assets/93.RPG/Script/FighterControl.cs" />
         <option value="$PROJECT_DIR$/Assets/93.RPG/Script/CameraControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/93.RPG/Script/CorutineSample.cs" />
       </list>
     </option>
   </component>
@@ -127,7 +123,8 @@
       <workItem from="1601632985225" duration="318000" />
       <workItem from="1601805240255" duration="2650000" />
       <workItem from="1602221454240" duration="2587000" />
-      <workItem from="1602310409209" duration="1121000" />
+      <workItem from="1602310409209" duration="3927000" />
+      <workItem from="1605355314187" duration="1698000" />
     </task>
     <task id="LOCAL-00001" summary="애니메이션 추가">
       <created>1600598211089</created>
@@ -136,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600598211089</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="카메라 추가">
+      <created>1602312428191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602312428191</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,17 +163,19 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="애니메이션 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="애니메이션 추가" />
+    <MESSAGE value="카메라 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="카메라 추가" />
   </component>
   <component name="WindowStateProjectService">
     <state x="998" y="520" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599912504749">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="998" y="520" key="#com.intellij.fileTypes.FileTypeChooser/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1599912504749" />
-    <state x="1010" y="565" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1600587221749">
+    <state x="1010" y="565" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1602312194848">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1010" y="565" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1600587221749" />
+    <state x="1010" y="565" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/2560.-519.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1602312194848" />
     <state x="1252" y="443" key="Github.ShareDialog" timestamp="1599911602138">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -182,24 +188,30 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1252" y="313" key="SettingsEditor/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1600586574221" />
-    <state width="889" height="401" key="SwitcherDM" timestamp="1602234719807">
+    <state width="889" height="401" key="SwitcherDM" timestamp="1602313096743">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="500" height="400" key="SwitcherDM/-2560.0.2560.1440/2560.-519.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1601806261136" />
     <state width="500" height="712" key="SwitcherDM/-2560.0.2560.1440/2560.-519.1440.2560/0.0.2560.1440@2560.-519.1440.2560" timestamp="1601808026989" />
     <state width="500" height="400" key="SwitcherDM/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1600589804454" />
-    <state width="889" height="401" key="SwitcherDM/2560.-519.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1602234719807" />
-    <state x="880" y="456" key="Vcs.Push.Dialog.v2" timestamp="1600598212634">
+    <state width="889" height="401" key="SwitcherDM/2560.-519.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1602313096743" />
+    <state x="880" y="456" key="Vcs.Push.Dialog.v2" timestamp="1602312430271">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="880" y="456" key="Vcs.Push.Dialog.v2/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1600598212634" />
+    <state x="880" y="456" key="Vcs.Push.Dialog.v2/2560.-519.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1602312430271" />
+    <state x="0" y="28" width="2560" height="1412" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605359835308">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="0" y="28" width="2560" height="1412" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-2560.0.2560.1440/2560.-519.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1605359835308" />
     <state x="1037" y="594" width="568" height="272" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1600586473312">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1037" y="594" width="568" height="272" key="org.intellij.images.editor.actions.BackgroundImageDialog/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1600586473312" />
-    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1600587096448">
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1602316288444">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1600587096448" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/2560.-519.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1602316288444" />
   </component>
 </project>
