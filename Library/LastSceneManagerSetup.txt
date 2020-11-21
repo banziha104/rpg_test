@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/93.RPG/Scene/Level1.unity
+- path: Assets/93.RPG/CorutineTest.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
