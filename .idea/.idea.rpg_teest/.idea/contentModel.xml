@@ -10,6 +10,7 @@
             <e p="CorutineSample.cs" t="Include" />
             <e p="FighterControl.cs" t="Include" />
             <e p="GuiControl.cs" t="Include" />
+            <e p="RaycastSample.cs" t="Include" />
           </e>
         </e>
         <e p="Effect Assets" t="Include">

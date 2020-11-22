@@ -20,9 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78396c12-4595-4efd-b0d6-b169b0c5d3a0" name="Default Changelist" comment="코루틴 추가">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.rpg_teest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.rpg_teest/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.rpg_teest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.rpg_teest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler6.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,21 +46,19 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BE223AC-3748-4E44-B85A-077F9B461EF8/59/f60d9dd3/Input.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB61AEE3-B85B-4BDF-A607-6D6680A88457/d5/2d45bd2a/AnimationState.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/iyeongjun/CloudStation/Projects/unity/rpg_teest/Assets/93.RPG/Script/FighterControl.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/iyeongjun/CloudStation/Projects/unity/rpg_teest/Assets/93.RPG/Script/FighterControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/93.RPG/Script/RaycastSample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/93.RPG/Script/CameraControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CD321F2-2A98-4E1E-B513-F00B987C648C/a1/e14582c3/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1CC9F42F-C888-4DD6-B922-6D52BD1D749D/5c/9cf33d46/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/iyeongjun/CloudStation/Projects/unity/rpg_teest/Assets/93.RPG/Script/FighterControl.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CD321F2-2A98-4E1E-B513-F00B987C648C/1a/09b45ce8/Object.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99258562-0D64-4271-98DD-F3A0E1467733/91/c727e97d/IEnumerator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB61AEE3-B85B-4BDF-A607-6D6680A88457/9a/1843412f/AnimationEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1CC9F42F-C888-4DD6-B922-6D52BD1D749D/14/8580f636/Physics.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CD321F2-2A98-4E1E-B513-F00B987C648C/77/f270fef0/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CD321F2-2A98-4E1E-B513-F00B987C648C/22/dd238d3d/Component.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CD321F2-2A98-4E1E-B513-F00B987C648C/89/49777059/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/iyeongjun/CloudStation/Projects/unity/rpg_teest/Assets/93.RPG/Script/FighterControl.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/iyeongjun/CloudStation/Projects/unity/rpg_teest/Assets/93.RPG/Script/FighterControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CD321F2-2A98-4E1E-B513-F00B987C648C/7f/95c33ebd/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/93.RPG/Script/CorutineSample.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Users/iyeongjun/CloudStation/Projects/unity/rpg_teest/Assets/93.RPG/Script/FighterControl.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -59,6 +68,7 @@
         <option value="$PROJECT_DIR$/Assets/93.RPG/Script/FighterControl.cs" />
         <option value="$PROJECT_DIR$/Assets/93.RPG/Script/CameraControl.cs" />
         <option value="$PROJECT_DIR$/Assets/93.RPG/Script/CorutineSample.cs" />
+        <option value="$PROJECT_DIR$/Assets/93.RPG/Script/RaycastSample.cs" />
       </list>
     </option>
   </component>
@@ -113,6 +123,7 @@
       <workItem from="1602221454240" duration="2587000" />
       <workItem from="1602310409209" duration="3927000" />
       <workItem from="1605355314187" duration="2219000" />
+      <workItem from="1606035312775" duration="1407000" />
     </task>
     <task id="LOCAL-00001" summary="애니메이션 추가">
       <created>1600598211089</created>
@@ -184,11 +195,12 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1252" y="313" key="SettingsEditor/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1600586574221" />
-    <state width="500" height="400" key="SwitcherDM" timestamp="1605444657819">
+    <state width="500" height="400" key="SwitcherDM" timestamp="1606039632121">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="500" height="400" key="SwitcherDM/-2560.0.2560.1440/2560.-519.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1605444657819" />
+    <state width="500" height="400" key="SwitcherDM/-2560.0.2560.1440/2560.-519.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1606039632121" />
     <state width="500" height="712" key="SwitcherDM/-2560.0.2560.1440/2560.-519.1440.2560/0.0.2560.1440@2560.-519.1440.2560" timestamp="1601808026989" />
+    <state width="500" height="400" key="SwitcherDM/-2560.25.2560.1415/2560.-494.1440.2535/0.0.2560.1377@0.0.2560.1377" timestamp="1606039588242" />
     <state width="500" height="400" key="SwitcherDM/2560.-500.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1600589804454" />
     <state width="889" height="401" key="SwitcherDM/2560.-519.1440.2560/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1602313096743" />
     <state x="880" y="456" key="Vcs.Push.Dialog.v2" timestamp="1605444680775">
